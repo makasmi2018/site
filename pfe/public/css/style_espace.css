@@ -1,0 +1,338 @@
+.espaceetudiant{
+    padding-bottom: 1000px;
+}
+
+.projetfin{
+    padding-bottom: 900px;
+}
+.bourses{
+     padding-bottom: 300px;
+}
+.calendrier{
+    padding-bottom: 100px;
+}
+.qfadut{
+    padding-bottom: 900px;
+}
+/*--------------------------------------------
+----------------------------------------------
+-------------EMPLOIS TEMPS -------------------
+----------------------------------------------
+----------------------------------------------*/
+
+/*----------------------  TETE   -------------------------*/
+.tete_espace{
+    float: left;
+    background-color: white;
+    width: 60%;
+    height: 40px;;
+    padding: 20px;
+}
+.tete_espace h1{
+    margin-top: 0px;
+    margin-left: 30px;
+   color: #e88154;
+    text-align: center;
+}
+/*-------------------  Espace Droit ---------------*/
+.espace_droit{
+    float: right;
+    background-color: white;
+    width: 20%;
+    height: auto;
+    padding: 40px;
+    box-shadow: 1px 1px 12px #9c9b9b;
+}
+.espace_droit p{
+    text-align: center;
+    color:#5689d6;
+    font-size: 18px;
+    font-weight: bold;
+}
+.espace_droit p a{
+    color:#5689d6;
+    
+}
+
+/*-------------------  Emplois Management  ---------------*/
+
+.emp_manag{
+    float: left;
+    background-color: #e6ab7e;
+    width: 60%;
+    height: auto;
+    margin-top: 15px;
+}
+.emp_manag h2{
+    color: white;
+    margin-left: 20px;
+}
+.emp_manag p{
+    color: white;
+    font-size: 18pt;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.emp_manag p span{
+    margin-left: 290px;
+    color: white;
+}
+.emp_manag p a{
+    color: white;
+    
+}
+/*-------------------  Emplois G I  ---------------*/
+
+.emp_gi{
+    float: left;
+    background-color: #6a9ce9;
+    width: 60%;
+    height: auto;
+    margin-top: 15px;
+    padding-bottom: 40px;
+}
+.emp_gi h2{
+    color: white;
+    margin-left: 20px;
+}
+.emp_gi p{
+    color: white;
+    font-size: 18pt;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.emp_gi p span{
+    margin-left: 290px;
+    color: white;
+}
+.emp_gi p a{
+    color: white;
+    
+}
+/*-------------------  Emplois G A  ---------------*/
+
+.emp_ga{
+    float: left;
+    background-color: #50bc85;
+    width: 60%;
+    height: auto;
+    margin-top: 15px;
+    padding-bottom: 40px;
+}
+.emp_ga h2{
+    color: white;
+    margin-left: 20px;
+}
+.emp_ga p{
+    color: white;
+    font-size: 18pt;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.emp_ga p span{
+    margin-left: 290px;
+    color: white;
+}
+.emp_ga p a{
+    color: white;
+    
+}
+/*--------------------------------------------
+----------------------------------------------
+---------------- Calendrier ------------------
+----------------------------------------------
+----------------------------------------------*/
+.calen{
+    float: left;
+    background-color:white;
+    width: 51.5%;
+    height: auto;
+    margin-top: 35px;
+    padding: 70px;
+}
+.calen p{
+    font-size: 23pt;
+    text-align: center;
+    color: black;
+}
+.calen p a{
+ color: black; 
+}
+/*--------------------------------------------
+----------------------------------------------
+-------------  Projets fin Etudde ------------
+----------------------------------------------
+----------------------------------------------*/
+
+/*----------------------  intro   -------------------------*/
+.profin{
+    float: left;
+    background-color:white;
+    width: 55.5%;
+    height: auto;
+    margin-top: 35px;
+    padding: 40px;
+}
+.profin p{
+    color: black;
+    font-size: 16pt;
+}
+/*--------------------- Encadre GA ---------------------------*/
+.encad_ga{
+    float: left;
+    background-color: #50bc85;
+    width: 59%;
+    height: auto;
+    margin-top: 15px;
+    padding: 20px;
+}
+.encad_ga h2{
+    color: white;
+    margin-left: 20px;
+}
+.encad_ga p{
+    color: white;
+    font-size: 16pt;
+}
+/*--------------------- Encadre GI ---------------------------*/
+.encad_gi{
+    float: left;
+    background-color: #6a9ce9;
+    width: 59%;
+    height: auto;
+    margin-top: 15px;
+    padding: 20px;
+}
+.encad_gi h2{
+    color: white;
+    margin-left: 20px;
+}
+.encad_gi p{
+    color: white;
+    font-size: 16pt;
+}
+/*--------------------- Encadre TM ---------------------------*/
+.encad_tm{
+    float: left;
+    background-color: #e6ab7e;
+    width: 59%;
+    height: auto;
+    margin-top: 15px;
+    padding: 20px;
+}
+.encad_tm h2{
+    color: white;
+    margin-left: 20px;
+}
+.encad_tm p{
+    color: white;
+    font-size: 16pt;
+}
+/*--------------------------------------------
+----------------------------------------------
+-------------        Bourses      ------------
+----------------------------------------------
+----------------------------------------------*/
+
+/*----------------------  les bourses  -------------------------*/
+.bour{
+    float: left;
+    background-color: #ffffff;
+    width: 57%;
+    height: auto;
+    margin-top: 30px;
+    padding: 40px;
+    box-shadow: 1px 1px 12px #9c9b9b;
+}
+.bour p{
+    font-size: 17pt;
+    color: black;
+
+}
+.bour p a{
+    color: black;
+}
+.bour p a img{
+    width: 25px;
+    height: 25px;
+}
+.bour p span{
+    color:#5689d6;
+    margin-left: 150px;
+}
+/*--------------------------------------------
+----------------------------------------------
+----------  Que faire aores dut ??  ----------
+----------------------------------------------
+----------------------------------------------*/
+
+/*----------------------  Paragraphe 1 -------------------------*/
+.intro1{
+    float: left;
+    background-color: #ffffff;
+    width: 57%;
+    height: auto;
+    margin-top: 30px;
+    padding: 40px;
+    box-shadow: 1px 1px 12px #9c9b9b;
+}
+.intro1 img{
+    width: 400px;
+    margin-left: 100px;
+     box-shadow: 1px 1px 12px #9c9b9b;
+    
+}
+.intro1 p{
+    padding: 20px;
+    font-size: 14pt;
+    color: black;
+}
+/*----------------------  Paragraphe 2 -------------------------*/
+.intro2{
+    float: left;
+    background-color: #ffffff;
+    width: 57%;
+    height: auto;
+    margin-top: 30px;
+    padding: 40px;
+    box-shadow: 1px 1px 12px #9c9b9b;
+}
+.intro2 img{
+    width: 100%;
+     box-shadow: 1px 1px 12px #9c9b9b;
+    
+}
+.intro2 p{
+    padding: 20px;
+    font-size: 14pt;
+    color: black;
+}
+.intro2 p span{
+    margin-left: 60px;
+    color: black;
+    font-weight: bold;
+}
+/*----------------------  Paragraphe 3 -------------------------*/
+.intro3{
+    float: right;
+    background-color: #ffffff;
+    width: 27%;
+    height: auto;
+    margin-top: 30px;
+    box-shadow: 1px 1px 12px #9c9b9b;
+}
+.intro3 img{
+    height: 170px;
+    width: 100%;
+    
+}
+.intro3 p{
+    padding: 20px;
+    font-size: 14pt;
+    color: black;
+}
+.intro3 p span{
+    margin-left: 20px;
+    color: black;
+    font-weight: bold;
+}

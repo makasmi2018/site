@@ -1,0 +1,24 @@
+/*----------------------
+--------------------------
+------------TETE----------
+-------------------------
+-------------------------*/
+.tete_ga{
+    background-color: #5889d4;
+    width: 90%;
+    height: 90px;
+    margin-bottom: 55px;
+    padding: 10px;
+    box-shadow: 1px 1px 12px #555; 
+}
+.tete_ga h1{
+    color: white;
+    text-align: left;
+    font-family: calibri;
+    margin-left: 30px;
+}
+.tete_ga p{
+    color: white;
+    text-align: right;
+    margin-right: 50px;
+}
